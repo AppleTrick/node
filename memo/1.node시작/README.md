@@ -21,6 +21,8 @@ Node가 서버란 말이 반은 맞고 반은 틀린 말이다. node가 서버�
 
 # Node의 구조
 
+![nodejs구조](https://user-images.githubusercontent.com/31761527/150630335-8aaf726e-39da-413a-bd5e-dfcbf59cfd18.jpeg)
+
 Node.js 는 다음과 같은 구조를 가지고 있다. Node 를 공부하면서 node는 전부 JS 언어로 구성되지 않았다는 점이다.  c++과 같이 존재한다.
 
 Node.js에 기본적인 모듈이 존재하는데 c++ 과 JS 가 반반 섞여 있다.
